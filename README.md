@@ -8,7 +8,7 @@ I'm learning the fundamentals while using AI as a tool to build and iterate fast
 
 ## What I've been building lately
 
-* [The first project I ever made when learning JavaScript (lol): A simple web app to get a daily dose of bad jokes](https://dad-jokes-vanillajs.vercel.app/)
+* The first project I ever made when learning JavaScript (lol): A simple web app to get a [daily dose of bad (dad) jokes](https://dad-jokes-vanillajs.vercel.app/)
 
 ## 🌐 Find me online
 
