@@ -6,7 +6,7 @@ I'm passionate about turning interesting ideas into useful, beautiful pieces of 
 
 I'm learning the fundamentals while using AI as a tool to build and iterate faster.
 
-## What I've been building lately
+## What I worked / am working on
 
 * The first project I ever made when learning JavaScript (lol): A simple web app to get a [daily dose of bad (dad) jokes](https://dad-jokes-vanillajs.vercel.app/)
 
